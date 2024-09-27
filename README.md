@@ -1,2 +1,2 @@
 # Saturn
-Venus用のライブラリ(Teensy4用)
+Saturn用のライブラリ(Teensy4用)
